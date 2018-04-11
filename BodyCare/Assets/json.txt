@@ -1,0 +1,1 @@
+{"up_title":"\u53d1\u73b0\u65b0\u7248\u672c","up_content":"1\u3001\u4fee\u590d\u91cd\u5927bug\n2\u3001\u4f18\u5316\u7528\u6237\u4f53\u9a8c","up_version":"1.0.1.943","up_count":"3","up_type":"1","url":"http:\/\/btsjapp.7d.haopeixun.org\/yaosou-official-V1.0.1.943.apk","need_update":1}
